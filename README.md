@@ -74,3 +74,39 @@ RoboRally is a two-player game where robots navigate a grid filled with **booste
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/AliIbrahim174/roborally.git
+
+   ## **Build the Project**
+
+- Open the project in a C++ IDE (e.g., Visual Studio or Code::Blocks).
+- Build the project to ensure all dependencies are resolved.
+
+## **Run the Application**
+
+- Execute the built application to start the game.
+
+---
+
+## **How to Play**
+
+### **In Design Mode**
+- Use the toolbar to add objects to the grid.
+- Save and load grid configurations for future use.
+
+### **In Play Mode**
+1. Select movement commands based on health.
+2. Navigate the grid and interact with objects.
+3. Use consumables or workshop upgrades to gain an advantage.
+4. Be the first to reach the flag cell to win!
+
+---
+
+## **Contributions**
+
+This project was developed as part of the **CMPS102 Programming Techniques** course at Cairo University. Team members collaborated on various aspects, including game design, GUI development, and core functionality implementation.
+
+---
+
+## **License**
+
+This project is open-source and available under the [MIT License](LICENSE).
+
